@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">L08Song</string>
+    <string name="songtitle">Song Title:</string>
+    <string name="singers">Singers:</string>
+    <string name="year">Year:</string>
+    <string name="SThint">Enter song title</string>
+    <string name="singersHint">Enter Singers\' names</string>
+    <string name="yearHint">Enter year of release</string>
+    <string name="stars">Stars:</string>
+    <string name="optIS">INSERT</string>
+    <string name="optSL">SHOW LIST</string>
+</resources>
